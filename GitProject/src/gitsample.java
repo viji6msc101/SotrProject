@@ -5,7 +5,7 @@ public class gitsample {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Test");
+		System.out.println("Test1s");
 	}
 
 }
